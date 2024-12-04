@@ -11880,4 +11880,10 @@ body {
   margin-top: -15px;
 }
 
+footer {
+  width: 100%;
+  height: 200px;
+  background-color: #32a2b8;
+}
+
 /*# sourceMappingURL=app.css.map */
