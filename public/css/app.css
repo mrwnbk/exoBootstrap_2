@@ -11844,5 +11844,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+* {
+  border-box: box-sizing;
+}
+
+body {
+  margin: 0;
+}
 
 /*# sourceMappingURL=app.css.map */
