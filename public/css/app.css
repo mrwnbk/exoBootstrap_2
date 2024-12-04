@@ -11886,4 +11886,26 @@ footer {
   background-color: #32a2b8;
 }
 
+.parFooter {
+  font-size: 10px;
+}
+
+.iconFooter img:nth-of-type(1) {
+  width: 40px;
+}
+.iconFooter img:nth-of-type(2) {
+  width: 40px;
+}
+
+.textInput {
+  margin-right: 5px;
+}
+
+.buttonFooter button {
+  height: 30px;
+  background-color: #343a40;
+  border-radius: 5px;
+  border: none;
+}
+
 /*# sourceMappingURL=app.css.map */
